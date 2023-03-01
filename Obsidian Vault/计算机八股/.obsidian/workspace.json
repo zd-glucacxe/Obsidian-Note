@@ -1,0 +1,178 @@
+{
+  "main": {
+    "id": "9d2266dc9ab06741",
+    "type": "split",
+    "children": [
+      {
+        "id": "82f60f4de64b5583",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "331e9734904cf315",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "45ec5df7e87ee4c5",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5dd4806ff6ff40f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c8bb46b49f690d37",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "55e15b5829bd8b1e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "543ac1032c3925a7",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "ea2ba91268bf37c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "215bf3b69ee44a5f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c249657a43f25c0a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dd63f45b631fd016",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c08206999599ba60",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "818ba20aa437419d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "331e9734904cf315",
+  "lastOpenFiles": [
+    "Java基础上.md",
+    "超过long整型的数据如何表示？.md",
+    "浮点数运算会产生精度丢失.md",
+    "自动装箱与拆箱.md",
+    "包装类型的缓存机制.md",
+    "基本数据类型与包装类型的区别.md",
+    "源代码编译运行过程.md",
+    "OpenJDK与OracleJDK.md",
+    "Java基本数据类型.md",
+    "JPG/基本数据类型.jpg",
+    "JPG/6d68f57a633b52a0207c28d7badf323.jpg",
+    "JPG",
+    "新建文件夹",
+    "6d68f57a633b52a0207c28d7badf323 2.jpg",
+    "6d68f57a633b52a0207c28d7badf323 1.jpg",
+    "6d68f57a633b52a0207c28d7badf323.jpg",
+    "重写与重载.md",
+    "可变长参数.md",
+    "字符常量与字符串常量.md",
+    "静态方法为什不能调用非静态成员.md",
+    "字节码.md",
+    "编译与运行并存.md",
+    "Java与C++ 的区别.md",
+    "Continue Break Return.md",
+    "标识符与关键字.md",
+    "移位运算符.md",
+    "JRE.md",
+    "JVM.md",
+    "JDK.md",
+    "热点代码.md",
+    "静态变量.md",
+    "成员变量与局部变量.md",
+    "未命名.canvas",
+    "未命名"
+  ]
+}
